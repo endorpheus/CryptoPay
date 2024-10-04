@@ -1,11 +1,11 @@
+<img src="icons/app_icon.png" alt="CryptoPay app icon" />
+
 # CryptoPay
 
 
-## Description
-
-CryptoPay is a modern, user-friendly desktop application that allows users to quickly and easily convert between USD and various cryptocurrencies. Built with Python and PySide6, this application provides real-time cryptocurrency price data and additional market information, making it an invaluable tool for crypto enthusiasts, investors, and anyone interested in tracking cryptocurrency values. Want to get paid in crypto but don't know how much to ask for? CryptoPay is the perfect solution!
+A modern, user-friendly desktop application that allows users to quickly and easily convert between USD and various cryptocurrencies. Built with Python and PySide6, this application provides real-time cryptocurrency price data and additional market information, making it an invaluable tool for crypto enthusiasts, investors, and anyone interested in tracking cryptocurrency values. Want to get paid in crypto but don't know how much to ask for? CryptoPay is the perfect solution!
 <br><br>
-Remember, Cryto currency values are constantly changing, second-by-second.
+**Remember:** Crypto values are constantly changing, second-by-second. Use this information with caution.
 
 ## Features
 
@@ -18,7 +18,7 @@ Remember, Cryto currency values are constantly changing, second-by-second.
 
 ## Benefits
 
-- **Stay Informed**: Keep track of cryptocurrency values in real-time.
+- **Stay Informed**: Keep track of cryptocurrency values by manually performing the conversion. (Auto mode is on the [TODO list](TODO/TODO.md)
 - **Make Informed Decisions**: Access market cap information to gauge the size and stability of different cryptocurrencies.
 - **Save Time**: Quickly perform currency conversions without the need for web searches or complex calculations.
 - **Flexibility**: Customize the list of cryptocurrencies to focus on the ones that matter to you.
